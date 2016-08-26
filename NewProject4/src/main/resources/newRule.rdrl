@@ -3,5 +3,6 @@ import java.lang.Number;
 rule "newRule"
 	dialect "mvel"
 	when
+		Number( )
 	then
 end
