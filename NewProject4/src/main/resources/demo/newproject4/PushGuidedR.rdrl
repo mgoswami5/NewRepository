@@ -1,0 +1,9 @@
+package demo.newproject4;
+
+import java.lang.Number;
+
+rule "PushGuidedR"
+	dialect "mvel"
+	when
+	then
+end
