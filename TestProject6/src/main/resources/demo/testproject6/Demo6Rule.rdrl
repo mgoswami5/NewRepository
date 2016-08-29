@@ -1,0 +1,9 @@
+package demo.testproject6;
+
+import java.lang.Number;
+
+rule "Demo6Rule"
+	dialect "mvel"
+	when
+	then
+end
